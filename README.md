@@ -1,1 +1,1 @@
-my second directory
+my new directory
